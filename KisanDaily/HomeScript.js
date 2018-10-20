@@ -1,6 +1,6 @@
 // JavaScript Document
-alert("Help");
-$(document).ready(function() {
+
+$.(document).ready(function() {
 	'use strict';
 	
 	var controller = new ScrollMagic.Controller();
